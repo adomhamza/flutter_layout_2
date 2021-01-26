@@ -218,7 +218,7 @@ class _HomeState extends State<Home> {
                 height: 40.0,
               ),
               Container(
-                margin: const EdgeInsetsDirectional.only(top: 50.0),
+                margin: const EdgeInsetsDirectional.only(top: 90.0),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
